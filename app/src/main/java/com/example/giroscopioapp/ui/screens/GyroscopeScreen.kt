@@ -1,4 +1,4 @@
-package com.example.giroscopioapp.screens
+package com.example.giroscopioapp.ui.screens
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Arrangement
